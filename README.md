@@ -17,7 +17,7 @@ This is a detailed architechure of the cloudformation project.
 	3. VPC
 	4. LoadBalancer
 	5. Security Groups
-	6. Lunch Configuration
+	6. Launch Configuration
 	7. AutoScaling
 
 
@@ -31,3 +31,5 @@ This is a detailed architechure of the cloudformation project.
 ## Instructions
 
 Please check the **Instructions.md**
+
+Thank you.
